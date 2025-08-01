@@ -2,6 +2,8 @@
 
 A sophisticated blockchain automation bot built with NestJS for managing token operations, wallet management, and automated trading strategies.
 
+**Developed by [sayedsoft.com](https://sayedsoft.com) - Ahmad Yaman SAYED**
+
 ## 🚀 Features
 
 - **Multi-Wallet Management**: Automated wallet rotation and balance management
